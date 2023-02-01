@@ -1,7 +1,6 @@
-# Resume_CoverLetter_Generator
+# Resume and CoverLetter Generator for each company and position
 
-What it does - 
-It generates a folder name in your directory called {company_name} and creates two files Naman Mehta Resume {company_name} {position_name}.pdf and Naman Mehta Cover Letter {company_name} {position_name}.pdf
+This generates a folder name in your directory called {company_name} and creates two files Naman Mehta Resume {company_name} {position_name}.pdf and Naman Mehta Cover Letter {company_name} {position_name}.pdf
 
 One-Time Changes - 
 1. Make sure to put resume and cover letter in a single folder. 
