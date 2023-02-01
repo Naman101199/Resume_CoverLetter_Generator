@@ -16,5 +16,5 @@ Before you run -
 Then, Run :)
 
 Your directory would be organized with each company like this - 
-![image](https://user-images.githubusercontent.com/58945986/215971003-be52c11c-7ac1-41b7-83cd-00381eb3c31a.png)
+![image](https://user-images.githubusercontent.com/58945986/215971319-be8c1239-6600-4acb-af2a-99820e1cba22.png)
 
